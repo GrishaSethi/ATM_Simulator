@@ -36,6 +36,7 @@ A **full-stack ATM Simulator Portal** that replicates the functionality and aest
 ```bash
 cd backend
 uvicorn main:app --reload
+```
 
 ### 2️⃣ Start the Frontend (React + Vite)
 
@@ -43,3 +44,4 @@ uvicorn main:app --reload
 cd frontend
 npm install
 npm run dev
+```
