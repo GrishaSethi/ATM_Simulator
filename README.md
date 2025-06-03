@@ -27,7 +27,6 @@ A **full-stack ATM Simulator Portal** that replicates the functionality and aest
 
 ### 📱 Fully Responsive Design
 - Works seamlessly on desktop and mobile browsers
-- 
 
 ## 🚀 Getting Started
 
